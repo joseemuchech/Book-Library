@@ -1,0 +1,15 @@
+.conn{
+    height: 400px;
+}
+
+.img{
+    height: 150px;
+    transition: all 10s ease;   
+}
+.img:hover{
+  transform: translateY(-100%);
+}
+
+.auth{
+   color: brown;
+}
